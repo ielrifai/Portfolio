@@ -1,17 +1,16 @@
-### Welcome to GitHub Pages
+### Hi, I'm
+# Issa El-Rifai
+### Software Engineering Student 
 
-You can use the [editor on GitHub](https://github.com/ielrifai/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
+I'm a third year Software Engineering Student that has experience in web and game development, software design, embedded systems, Windows and Linux environments. I've aquired these experiences from class, personal projects, as well as through attending a hackathon hosted at my university (Hack Western).
 
-```markdown
-Syntax highlighted code block
+# Education
+## Bachelor of Software Engineering
 
-# Header 1
 ## Header 2
 ### Header 3
 
