@@ -1,8 +1,6 @@
 ### Hi, I'm
-# Issa El-Rifai
-### Software Engineering Student 
-
-
+# Issa El-Rifai 
+ 
 
 
 ### About Me
